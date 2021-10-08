@@ -1,1 +1,1 @@
-# 500-cmd-2
+unzip, upload all to web replit secure: TOKEN
